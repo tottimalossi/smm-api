@@ -11,7 +11,7 @@ add this to composer.json and run `composer update"`
     ],
   "require": {
     ...
-    "tottimalossi/SMM-API": "@dev",
+    "tottimalossi/smm-api": "@dev",
      ...
     }
 ```
