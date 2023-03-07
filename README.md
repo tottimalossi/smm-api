@@ -6,16 +6,16 @@ add this to composer.json and run `composer update"`
    "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/backendidsiapps/smm-api"
+            "url": "https://github.com/tottimalossi/SMM-API.git"
         }
     ],
   "require": {
     ...
-    "backendidsiapps/smm-api": "@dev",
+    "tottimalossi/SMM-API": "@dev",
      ...
     }
 ```
-``php artisan vendor:publish --provider="Backendidsiapps\SmmAPI\SmmAPIServiceProvider"
+``php artisan vendor:publish --provider="tottimalossi\SmmAPI\SmmAPIServiceProvider"
 ``
 and add to .env
 ```

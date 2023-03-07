@@ -6,9 +6,9 @@
  * Time: 9:20.
  */
 
-namespace Backendidsiapps\SmmAPI;
+namespace tottimalossi\SmmAPI;
 
-use Backendidsiapps\SmmAPI\ISmmAPI\ISmmAPI;
+use tottimalossi\SmmAPI\ISmmAPI\ISmmAPI;
 
 class SmmAPI implements ISmmAPI
 {

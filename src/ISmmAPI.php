@@ -1,14 +1,14 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: backend
- * Date: 26.03.18
- * Time: 9:41.
+ * User: tottimalossi
+ * Date: 07.03.22
+ * Time: 18:08.
  */
 
-namespace Backendidsiapps\SmmAPI\ISmmAPI;
+namespace tottimalossi\SmmAPI\ISmmAPI;
 
-use Backendidsiapps\SmmAPI\OrderAPI;
+use tottimalossi\SmmAPI\OrderAPI;
 
 interface ISmmAPI
 {

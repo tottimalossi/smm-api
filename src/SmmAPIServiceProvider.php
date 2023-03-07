@@ -1,8 +1,8 @@
 <?php
 
-namespace Backendidsiapps\SmmAPI;
+namespace tottimalossi\SmmAPI;
 
-use Backendidsiapps\SmmAPI\ISmmAPI\ISmmAPI;
+use tottimalossi\SmmAPI\ISmmAPI\ISmmAPI;
 use Illuminate\Support\ServiceProvider;
 
 /**

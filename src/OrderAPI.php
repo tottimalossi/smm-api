@@ -1,12 +1,12 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: backend
- * Date: 26.03.18
- * Time: 9:47.
+ * User: tottimalossi
+ * Date: 07.03.22
+ * Time: 18:08.
  */
 
-namespace Backendidsiapps\SmmAPI;
+namespace tottimalossi\SmmAPI;
 
 class OrderAPI
 {
