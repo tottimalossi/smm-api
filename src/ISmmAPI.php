@@ -1,9 +1,9 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: tottimalossi
- * Date: 07.03.22
- * Time: 18:08.
+ * User: backend
+ * Date: 26.03.18
+ * Time: 9:41.
  */
 
 namespace tottimalossi\SmmAPI\ISmmAPI;
