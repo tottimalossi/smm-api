@@ -6,7 +6,7 @@ add this to composer.json and run `composer update"`
    "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/tottimalossi/SMM-API.git"
+            "url": "https://github.com/tottimalossi/smm-api"
         }
     ],
   "require": {
